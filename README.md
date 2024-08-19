@@ -25,12 +25,9 @@ Fields of my expertise: test design methods, competent test coverage, troublesho
 * adaptability
 
 ### Courses :notebook:
-
-## Topics
-Here you can find my tasks completed during the course.
-> <a href="https://github.com/irapapara/Mentorpiece/tree/main/1%20Relational%20Databases">Relational Databases</a>
+Mentorpiece
 
 
-
+### Certificates :trophy:
 
 
