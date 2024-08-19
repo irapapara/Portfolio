@@ -9,7 +9,7 @@ Fields of my expertise: test design methods, competent test coverage, troublesho
 
 <br>
 
-## Tech Knowledge, Skills, and Abilities :computer:
+### Tech Knowledge, Skills, and Abilities :computer:
 ``API testing (Postman, Postman Proxy, Swagger, DevTools, HTTP methods, REST)``,``Mysql database, Jira, SQL joins, nested queries``,``Git (branching)``,`` IntelliJ IDEA, Gherkin, Docker`` <br>
 `` Deep understanding of SDLC and STLC``,  ``Gaining and reading logs``, `` Linux (commands, access permissions, streams, processes)``, ``Jira, Tricentis, Zephyr scale, TestIt``
 
@@ -23,7 +23,9 @@ Fields of my expertise: test design methods, competent test coverage, troublesho
 * time management
 * curiosity
 * adaptability
-  
+
+### Courses :notebook:
+
 ## Topics
 Here you can find my tasks completed during the course.
 > <a href="https://github.com/irapapara/Mentorpiece/tree/main/1%20Relational%20Databases">Relational Databases</a>
