@@ -8,7 +8,7 @@ Here you can find my tasks completed during the course.
 
 <br>
 
-## Knowledge, Skills, and Abilities:computer:
+## Knowledge, Skills, and Abilities :computer:
 ``API testing (Postman, Postman Proxy, Swagger, DevTools, HTTP methods, REST)``,``Mysql database, Jira, SQL joins, nested queries``,``Git (branching)``,`` IntelliJ IDEA, Gherkin, Docker`` <br>
 ``Глубокое понимание SDLC, STLC``,  ``Gaining and reading logs``, `` Linux (commands, access permissions, streams, processes)``
 
