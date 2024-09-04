@@ -42,9 +42,20 @@ Fields of my expertise: test design methods, competent test coverage, troublesho
   
 **Achievements:** Deputy Department Head. I came up with duty in the system administrators department to improve work efficiency. I trained new system administrators
   
-  
+## EDUCATION
 
-  
+### Oct  2023 - March 2024 - MENTORPIECE
+#### Specialisation: Pre-Middle QA Eng: Manual Testing + Internship  
+Successfully passed the entrance exams (5 people per 1 place).
+Personal mentoring by QA experts with 10-20 years of experience. Deep dive into testing design methods (BVA, pairwise, decision tables, state transition, equivalents classes), 3-tier web applications troubleshooting (Linux commands, networks, protocols, bug localization on all the levels of the app)
+
+ **Achievments:** Course attestatioon grade 91/100
+ 
+### Jan 2023 - April 2023 intensive german courses
+
+### Mathematics National University of Uzbekistan, Tashkent, Uzbekistan
+#### Bachelor's Degree
+
 ### Tech Knowledge, Skills, and Abilities :computer:
 ``API testing (Postman, Postman Proxy, Swagger, DevTools, HTTP methods, REST)``,``Mysql database, Jira, SQL joins, nested queries``,``Git (branching)``,`` IntelliJ IDEA, Gherkin, Docker`` <br>
 `` Deep understanding of SDLC and STLC``,  ``Gaining and reading logs``, `` Linux (commands, access permissions, streams, processes)``, ``Jira, Tricentis, Zephyr scale, TestIt``
