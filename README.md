@@ -53,8 +53,8 @@ Personal mentoring by QA experts with 10-20 years of experience. Deep dive into 
  
 ### Intensive german courses | Jan 2023 - April 2023
 
-### Mathematics National University of Uzbekistan, Tashkent, Uzbekistan
-#### Bachelor's Degree
+### National University of Uzbekistan, Tashkent, Uzbekistan
+#### Bachelor's Degree in Mathematics 
 
 ### Tech Knowledge, Skills, and Abilities :computer:
 ``API testing (Postman, Postman Proxy, Swagger, DevTools, HTTP methods, REST)``,``Mysql database, Jira, SQL joins, nested queries``,``Git (branching)``,`` IntelliJ IDEA, Gherkin, Docker`` <br>
