@@ -23,9 +23,23 @@ Fields of my expertise: test design methods, competent test coverage, troublesho
 * Providing test coverage of the functionality with checklists and test cases
 * Defect verification  and localization at UI, backend and database
 * Worked with Postman, Devtools, Jira, Tricentis, Zephyr scale, and used scrum methodology.
-**Achievements:** Communication skills with the team, always completed sprints slightly ahead of schedule 
+**Achievements:** Communication skills with the team, always completed sprints slightly ahead of schedule
+
+### LLanguage | Artiki	2010 - 2022
+## Manager, Web content writer
+* Led the children's section of the website with English language learning materials. I worked with: WordPress and Joomla, Canva and Adobe Photoshop, Google Analytics. SEO. 
+**Achievements:** Excellent communication skills with clients and colleagues. 
 
 
+### QUINTURA - VISUAL SEARCH ENGINE 2007 - 2010
+## SYSTEM ADMINISTRATOR 
+* Defect localization at UI, backend and database. Read NGINX logs, program logs on Windows and Linux  and check the database to find the root cause of  issues. Wrote manuals for users.
+* Administered remote and local servers. Deployed releases on local and remote servers and troubleshooted problems such as software bug elimination. Supported  backup and recovery procedures.
+* Actively contributed to team meetings, communication with different teams.
+* Worked with MySQL databases, task management system Jira and administered NGINX. Installed software 
+**Achievements:** Deputy Department Head. I came up with duty in the system administrators department to improve work efficiency. I trained new system administrators 
+
+  
 ### Tech Knowledge, Skills, and Abilities :computer:
 ``API testing (Postman, Postman Proxy, Swagger, DevTools, HTTP methods, REST)``,``Mysql database, Jira, SQL joins, nested queries``,``Git (branching)``,`` IntelliJ IDEA, Gherkin, Docker`` <br>
 `` Deep understanding of SDLC and STLC``,  ``Gaining and reading logs``, `` Linux (commands, access permissions, streams, processes)``, ``Jira, Tricentis, Zephyr scale, TestIt``
