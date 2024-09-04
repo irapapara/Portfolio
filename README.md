@@ -44,14 +44,14 @@ Fields of my expertise: test design methods, competent test coverage, troublesho
   
 ## EDUCATION
 
-### Oct  2023 - March 2024 - MENTORPIECE
+### MENTORPIECE | Oct  2023 - March 2024 
 #### Specialisation: Pre-Middle QA Eng: Manual Testing + Internship  
 Successfully passed the entrance exams (5 people per 1 place).
 Personal mentoring by QA experts with 10-20 years of experience. Deep dive into testing design methods (BVA, pairwise, decision tables, state transition, equivalents classes), 3-tier web applications troubleshooting (Linux commands, networks, protocols, bug localization on all the levels of the app)
 
  **Achievments:** Course attestatioon grade 91/100
  
-### Jan 2023 - April 2023 intensive german courses
+### Intensive german courses | Jan 2023 - April 2023
 
 ### Mathematics National University of Uzbekistan, Tashkent, Uzbekistan
 #### Bachelor's Degree
