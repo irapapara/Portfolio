@@ -1,6 +1,7 @@
 # IRINA PAPARA
 
 ## QA ENGINEER
+ira.papara@gmail.com | telegram @Ira_Papara| discord irinka2834 
 
 ### About me :wave:
 Hello! 
@@ -10,6 +11,20 @@ Fields of my expertise: test design methods, competent test coverage, troublesho
 
 [I am studying AQA with Java.](https://github.com/irapapara/FirstJavaProject/tree/master/src)
 <br>
+
+## PROFESSIONAL EXPERIENCE
+
+### Sanplex | Startupium  March - July 2024
+##QA engineer
+
+* As a member of the QA team, I was responsible for starting testing on a project from scratch.
+* Created documentation. Requirements, user stories analysed, writed bug reports 
+* Communication with stakeholders and development team. Scrum methodology
+* Providing test coverage of the functionality with checklists and test cases
+* Defect verification  and localization at UI, backend and database
+* Worked with Postman, Devtools, Jira, Tricentis, Zephyr scale, and used scrum methodology.
+**Achievements:** Communication skills with the team, always completed sprints slightly ahead of schedule 
+
 
 ### Tech Knowledge, Skills, and Abilities :computer:
 ``API testing (Postman, Postman Proxy, Swagger, DevTools, HTTP methods, REST)``,``Mysql database, Jira, SQL joins, nested queries``,``Git (branching)``,`` IntelliJ IDEA, Gherkin, Docker`` <br>
