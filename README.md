@@ -15,7 +15,7 @@ Fields of my expertise: test design methods, competent test coverage, troublesho
 ## PROFESSIONAL EXPERIENCE
 
 ### Sanplex | Startupium  March - July 2024
-##QA engineer
+## QA engineer
 
 * As a member of the QA team, I was responsible for starting testing on a project from scratch.
 * Created documentation. Requirements, user stories analysed, writed bug reports 
