@@ -15,7 +15,7 @@ Fields of my expertise: test design methods, competent test coverage, troublesho
 ## PROFESSIONAL EXPERIENCE
 
 ### Sanplex | Startupium                                   March - July 2024
-## QA engineer
+### QA engineer
 
 * As a member of the QA team, I was responsible for starting testing on a project from scratch.
 * Created documentation. Requirements, user stories analysed, writed bug reports 
@@ -26,13 +26,13 @@ Fields of my expertise: test design methods, competent test coverage, troublesho
 **Achievements:** Communication skills with the team, always completed sprints slightly ahead of schedule
 
 ### LLanguage | Artiki	2010 - 2022
-## Manager, Web content writer
+### Manager, Web content writer
 * Led the children's section of the website with English language learning materials. I worked with: WordPress and Joomla, Canva and Adobe Photoshop, Google Analytics. SEO. 
 **Achievements:** Excellent communication skills with clients and colleagues. 
 
 
 ### QUINTURA - VISUAL SEARCH ENGINE 2007 - 2010
-## SYSTEM ADMINISTRATOR 
+### SYSTEM ADMINISTRATOR 
 * Defect localization at UI, backend and database. Read NGINX logs, program logs on Windows and Linux  and check the database to find the root cause of  issues. Wrote manuals for users.
 * Administered remote and local servers. Deployed releases on local and remote servers and troubleshooted problems such as software bug elimination. Supported  backup and recovery procedures.
 * Actively contributed to team meetings, communication with different teams.
