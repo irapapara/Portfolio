@@ -1,9 +1,9 @@
-# Portfolio
+# IRINA PAPARA
 
 ### About me :wave:
 Hello! 
 <br>
-My name is Irina. I am QA engineer. <br>
+My name is Irina Papara. I am QA engineer. <br>
 Fields of my expertise: test design methods, competent test coverage, troubleshooting 3-tier web application, MYSQL, Linux.I am studying automation with Java in a course. As a former system administrator with 4 years of experience,I am skilled at identifying defects in app and working in a team
 
 [I am studying AQA with Java.](https://github.com/irapapara/FirstJavaProject/tree/master/src)
