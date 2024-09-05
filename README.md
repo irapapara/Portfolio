@@ -72,7 +72,7 @@ Personal mentoring by QA experts with 10-20 years of experience. Deep dive into 
 
 ### Courses :notebook:
  
-[Mentorpiece](https://github.com/irapapara/Mentorpiece/tree/main?tab=readme-ov-file#readme)
+[Mentorpiece+ Portfolio](https://github.com/irapapara/Mentorpiece/tree/main?tab=readme-ov-file#readme)
 
 ### Certificates :trophy:
 [Mentorpiece](https://github.com/irapapara/Portfolio/blob/main/Certificates/Sertificate%20Mentorpiece.pdf)
