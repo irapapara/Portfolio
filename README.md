@@ -8,7 +8,7 @@ Hello!
 My name is Irina Papara. I am QA engineer. <br>
 Fields of my expertise: test design methods, competent test coverage, troubleshooting 3-tier web application, MYSQL, Linux.I am studying automation with Java in a course. As a former system administrator with 4 years of experience,I am skilled at identifying defects in app and working in a team
 
-[I have started learning Java AQA, and you can follow my learning progress here.](https://github.com/irapapara/FirstJavaProject/tree/master/src)
+I have started learning Java AQA, and you can follow my [learning progress here.](https://github.com/irapapara/FirstJavaProject/tree/master/src)
 <br>
 
 ## PROFESSIONAL EXPERIENCE
