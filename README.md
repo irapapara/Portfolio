@@ -1,8 +1,7 @@
 # IRINA PAPARA
 
 ## QA ENGINEER
-ira.papara@gmail.com | telegram @Ira_Papara| discord irinka2834 
-
+ira.papara@gmail.com | telegram @Ira_Papara
 ### About me :wave:
 Hello! 
 <br>
