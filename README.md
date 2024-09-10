@@ -43,6 +43,7 @@ I have started learning  AQA Java, and you can follow my [learning progress here
   
 ## EDUCATION
 
+### August 2024 - present time | Java AQA
 ### MENTORPIECE | Oct  2023 - March 2024 
 #### Specialisation: Pre-Middle QA Eng: Manual Testing + Internship  
 Successfully passed the entrance exams (5 people per 1 place).
