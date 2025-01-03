@@ -6,12 +6,26 @@ ira.papara@gmail.com | telegram @Ira_Papara - https://t.me/Ira_Papara
 Hello! 
 <br>
 My name is Irina Papara. I am QA engineer. <br>
-Fields of my expertise: test design methods, competent test coverage, troubleshooting 3-tier web application, MYSQL, Linux.I am studying automation in a course. As a former system administrator with 4 years of experience,I am skilled at identifying defects in app and working in a team
+Fields of my expertise: test design methods, competent test coverage, troubleshooting 3-tier web application, MYSQL, Linux. I am studying automation. As a former system administrator with 4 years of experience,I am skilled at identifying defects in app and working in a team
 
 I have started learning  AQA at [RedRoverschool](https://www.linkedin.com/company/redrover-school/posts/?feedView=all), and you can follow my [learning progress here.](https://github.com/irapapara/FirstJavaProject/tree/master/src)
 <br>
 
 ## PROFESSIONAL EXPERIENCE
+### SAAS                             September 2024 – Present
+### QA engineer
+
+* Collaborated with the development team using the Scrum methodology. Created documentation and detailed bug reports.
+* Ensured functional test coverage through checklists and test cases.
+* Performed localization and defect verification in the user interface, backend, and PostgreSQL database.
+* Utilized tools like Postman, DevTools, Jira, Testflight, Helpscout, and VirtualBox.
+* Conducted testing across multiple platforms:
+1) Desktop and web versions on macOS and Windows.
+2) Web versions on Android and iPhone.
+3) Browser extensions.
+* Worked with command-line tools on Windows and macOS. Analyzed logs and initiated testing projects from scratch.
+**Achievements:** Enhanced communication skills within the team.
+Reduced defects in applications through effective testing strategies.
 
 ### Sanplex | Startupium                                   March - July 2024
 ### QA engineer
@@ -23,7 +37,7 @@ I have started learning  AQA at [RedRoverschool](https://www.linkedin.com/compan
 * Defect verification  and localization at UI, backend and database
 * Worked with Postman, Devtools, Jira, Tricentis, Zephyr scale, and used scrum methodology.
   
-**Achievements:** Communication skills with the team, always completed sprints slightly ahead of schedule
+ **Achievements:** Communication skills with the team, always completed sprints slightly ahead of schedule
 
 ### LLanguage | Artiki	2010 - 2022
 ### Manager, Web content writer
