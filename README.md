@@ -41,7 +41,7 @@ Reduced defects in applications through effective testing strategies.
 
 ### LLanguage | Artiki	2010 - 2022
 ### Manager, Web content writer
-* Led the children's section of the website with English language learning materials. I worked with: WordPress and Joomla, Canva and Adobe Photoshop, Google Analytics. SEO.
+* Led the section of the website with English language learning materials. I worked with: WordPress and Joomla, Canva and Adobe Photoshop, Google Analytics. SEO.
   
 **Achievements:** Excellent communication skills with clients and colleagues. 
 
