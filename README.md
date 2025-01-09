@@ -24,7 +24,7 @@ I have started learning  AQA at [RedRoverschool](https://www.linkedin.com/compan
 2) Web versions on Android and iPhone.
 3) Browser extensions.
 * Worked with command-line tools on Windows and macOS. Analyzed logs and initiated testing projects from scratch.
-* 
+  
 **Achievements:** Enhanced communication skills within the team.
 Reduced defects in applications through effective testing strategies.
 
