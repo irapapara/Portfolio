@@ -58,7 +58,7 @@ Reduced defects in applications through effective testing strategies.
   
 ## EDUCATION
 
-### August 2024 - present time | Java AQA
+
 ### MENTORPIECE | Oct  2023 - March 2024 
 #### Specialisation: Pre-Middle QA Eng: Manual Testing + Internship  
 Successfully passed the entrance exams (5 people per 1 place).
