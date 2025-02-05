@@ -92,5 +92,5 @@ Personal mentoring by QA experts with 10-20 years of experience. Deep dive into 
 ### Certificates :trophy:
 [Mentorpiece](https://github.com/irapapara/Portfolio/blob/main/Certificates/Sertificate%20Mentorpiece.pdf)
 
-### Equipment:computer:MacBook, Windows laptop, iPhone, Android phone.
+### Equipment :computer:MacBook, Windows laptop, iPhone, Android phone.
 
