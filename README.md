@@ -18,10 +18,10 @@ I have started learning  AQA at [RedRoverschool](https://www.linkedin.com/compan
 * Collaborated with the development team using the Scrum methodology. Created documentation and detailed bug reports.
 * Ensured functional test coverage through checklists and test cases.
 * Performed localization and defect verification in the user interface, backend, and PostgreSQL database.
-* Utilized tools like Postman, DevTools, Jira, Testflight, Helpscout, and VirtualBox.
+* Worked with  Postman, DevTools, Jira, Testflight, Helpscout,  VirtualBox, VMware.
 * Conducted testing across multiple platforms:
 1) Desktop and web versions on macOS and Windows.
-2) Web versions on Android and iPhone.
+2) Web versions and mobile versions on Android and iPhone.
 3) Browser extensions.
 * Worked with command-line tools on Windows and macOS. Analyzed logs and initiated testing projects from scratch.
   
