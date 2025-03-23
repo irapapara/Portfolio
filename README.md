@@ -23,6 +23,7 @@ I have started learning  AQA at [RedRoverschool](https://www.linkedin.com/compan
 1) Desktop and web versions on macOS and Windows.
 2) Web versions and mobile versions on Android and iPhone.
 3) Browser extensions.
+4) Telegram bot
 * Worked with command-line tools on Windows and macOS. Analyzed logs and initiated testing projects from scratch.
   
 **Achievements:** Enhanced communication skills within the team.
