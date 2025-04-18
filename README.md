@@ -67,7 +67,6 @@ Personal mentoring by QA experts with 10-20 years of experience. Deep dive into 
 
  **Achievments:** Course attestatioon grade 91/100
  
-### Intensive german courses | Jan 2023 - April 2023
 
 ### National University of Uzbekistan, Tashkent, Uzbekistan
 #### Bachelor's Degree in Mathematics 
