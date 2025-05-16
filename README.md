@@ -86,11 +86,13 @@ Personal mentoring by QA experts with 10-20 years of experience. Deep dive into 
 * adaptability
 
 ### Courses :notebook:
- 
+T1 Open schools intensive 
 [Mentorpiece+ Portfolio](https://github.com/irapapara/Mentorpiece/tree/main?tab=readme-ov-file#readme)
 
-T1 Open schools intensive 
+
 ### Certificates :trophy:
+[T1 Open Schools](https://github.com/irapapara/Portfolio/blob/main/Certificates/T1%20Open%20Schools%2049-3978103092.pdf))
+
 [Mentorpiece](https://github.com/irapapara/Portfolio/blob/main/Certificates/Sertificate%20Mentorpiece.pdf)
 
 ### Equipment :computer:
