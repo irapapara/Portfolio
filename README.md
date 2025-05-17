@@ -61,6 +61,7 @@ Reduced defects in applications through effective testing strategies.
 ### T1 Open Schools
 #### Specialisation: Manual QA intensive
 https://t1.ru/open-school/
+
 **Achievments:** Course attestatioon grade 81/81
 
 ### MENTORPIECE | Oct  2023 - March 2024 
