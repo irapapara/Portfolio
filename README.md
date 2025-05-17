@@ -57,11 +57,10 @@ Reduced defects in applications through effective testing strategies.
   
 **Achievements:** Deputy Department Head. I came up with duty in the system administrators department to improve work efficiency. I trained new system administrators
   
-## EDUCATION
+## EDUCATION |  Apr 2025 · Expired May 2025
 ### T1 Open Schools
 #### Specialisation: Manual QA intensive
 https://t1.ru/open-school/
-Issued Apr 2025 · Expired May 2025
 **Achievments:** Course attestatioon grade 81/81
 
 ### MENTORPIECE | Oct  2023 - March 2024 
