@@ -91,7 +91,7 @@ T1 Open schools intensive
 
 
 ### Certificates :trophy:
-[T1 Open Schools](https://github.com/irapapara/Portfolio/blob/main/Certificates/T1%20Open%20Schools%2049-3978103092.pdf))
+[T1 Open Schools](https://github.com/irapapara/Portfolio/blob/main/Certificates/T1%20Open%20Schools%2049-3978103092.pdf)
 
 [Mentorpiece](https://github.com/irapapara/Portfolio/blob/main/Certificates/Sertificate%20Mentorpiece.pdf)
 
