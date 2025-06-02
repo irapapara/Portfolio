@@ -6,7 +6,7 @@ ira.papara@gmail.com | telegram @Ira_Papara - https://t.me/Ira_Papara
 Hello! 
 <br>
 My name is Irina Papara. I am QA engineer. <br>
-Fields of my expertise: test design methods, competent test coverage, troubleshooting 3-tier web application. I want to  study automation. As a former system administrator with 4 years of experience,I am skilled at identifying defects in app and working in a team
+Fields of my expertise: test design methods, competent test coverage, troubleshooting 3-tier web application. I want to  study automation. As a former system administrator with 3 years of experience,I am skilled at identifying defects in app and working in a team
 
 I have started learning  AQA at [RedRoverschool](https://www.linkedin.com/company/redrover-school/posts/?feedView=all)
 <br>
