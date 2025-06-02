@@ -60,6 +60,14 @@ Reduced defects in applications through effective testing strategies.
 ## EDUCATION |  Apr 2025 ·  May 2025
 ### T1 Open Schools https://t1.ru/open-school/
 #### Specialisation: Manual QA intensive
+Client-server and microservices architecture
+Web application testing
+API testing
+Databases
+Integration testing
+Defect management
+Test documentation
+Software development models
 
 **Achievments:** Course attestatioon grade 81/81
 
