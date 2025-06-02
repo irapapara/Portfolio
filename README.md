@@ -2,7 +2,7 @@
 
 ## QA ENGINEER
 
-ira.papara@gmail.com | [telegram @Ira_Papara](https://t.me/Ira_Papara) |[linkedin](https://www.linkedin.com/in/irina-papara/)
+ira.papara@gmail.com | [telegram](https://t.me/Ira_Papara) |[linkedin](https://www.linkedin.com/in/irina-papara/)
 ### About me :wave:
 Hello! 
 <br>
