@@ -57,8 +57,8 @@ Reduced defects in applications through effective testing strategies.
   
 **Achievements:** Deputy Department Head. I came up with duty in the system administrators department to improve work efficiency. I trained new system administrators
   
-## EDUCATION |  Apr 2025 ·  May 2025
-### T1 Open Schools https://t1.ru/open-school/
+## EDUCATION 
+### T1 Open Schools https://t1.ru/open-school/ |  Apr 2025 ·  May 2025
 #### Specialisation: Manual QA intensive
 * Client-server and microservices architecture
 * Web application testing
