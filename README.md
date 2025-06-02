@@ -18,7 +18,7 @@ I have started learning  AQA at [RedRoverschool](https://www.linkedin.com/compan
 * Collaborated with the development team using the Scrum methodology. Created documentation and detailed bug reports.
 * Ensured functional test coverage through checklists and test cases.
 * Performed localization and defect verification in the user interface, backend, and PostgreSQL database.
-* Worked with  Postman, DevTools, Jira, Testflight, Helpscout,  VirtualBox, VMware.
+* Worked with  Postman, Swagger, DevTools, Jira, Testflight, Helpscout,  VirtualBox, VMware.
 * Conducted testing across multiple platforms:
 1) Desktop and web versions on macOS and Windows.
 2) Web versions and mobile versions on Android and iPhone.
@@ -57,7 +57,7 @@ Reduced defects in applications through effective testing strategies.
   
 **Achievements:** Deputy Department Head. I came up with duty in the system administrators department to improve work efficiency. I trained new system administrators
   
-## EDUCATION |  Apr 2025 · Expired May 2025
+## EDUCATION |  Apr 2025 ·  May 2025
 ### T1 Open Schools https://t1.ru/open-school/
 #### Specialisation: Manual QA intensive
 
