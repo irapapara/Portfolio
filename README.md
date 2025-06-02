@@ -76,6 +76,16 @@ Reduced defects in applications through effective testing strategies.
 Successfully passed the entrance exams (5 people per 1 place).
 Personal mentoring by QA experts with 10-20 years of experience. Deep dive into testing design methods (BVA, pairwise, decision tables, state transition, equivalents classes), 3-tier web applications troubleshooting (Linux commands, networks, protocols, bug localization on all the levels of the app)
 
+* Databases + SQL
+* Linux
+* Networks
+* Troubleshooting
+* REST testing
+* WebUI testing
+* Test design and documentation
+* Automation basics and tools
+* Agile
+  
  **Achievments:** Course attestatioon grade 91/100
  
 
